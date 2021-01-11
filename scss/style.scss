@@ -1,0 +1,1947 @@
+#header {
+    background: url(../img/heading-img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 740px;
+}
+
+#header h2 {
+    font-size: 47px;
+}
+
+#header h1 {
+    font-size: 70px;
+}
+
+#header p {
+    letter-spacing: 10px;
+    font-size: 25px;
+}
+
+#header .car-img {
+    margin-top: 30px;
+    margin-left: -410px;
+}
+
+#navbar-header .active-color {
+    background: #ffc61a;
+    border-radius: 18px;
+    color: black;
+}
+
+#navbar-header .nav-link:hover {
+    background: #ffc61a;
+    border-radius: 18px;
+    color: black !important;
+}
+
+#textandtable {
+    background: #ffc61a !important;
+    height: 660px;
+}
+
+#textandtable .contact-left {
+    width: 22px;
+    margin-top: 15px;
+}
+
+#textandtable .contact-left a {
+    width: 145px;
+}
+
+#textandtable .contact-right {
+    margin-top: 95px;
+    width: 44px;
+    margin-right: -100px;
+}
+
+#textandtable .contact-right h1 {
+    background: #171717;
+    color: #cdcdcd;
+    width: 420px;
+    height: 80px;
+}
+
+#textandtable .input-tag {
+    background-color: #ffffff;
+    width: 420px;
+    height: 362px;
+}
+
+#textandtable .input-tag input {
+    width: 175px;
+    height: 65px;
+    display: inline-block;
+    padding: 20px;
+    border: 0px;
+    border-bottom: 3px solid #e4e4e4;
+}
+
+#textandtable .input-tag input-h1-text-color {
+    color: #000000 !important;
+}
+
+#textandtable select {
+    width: 345px;
+    height: 62px;
+    display: inline-block;
+    padding: 20px;
+    border: 0px;
+    border-bottom: 3px solid #e4e4e4;
+}
+
+#textandtable form a {
+    cursor: pointer;
+    width: 336px;
+    margin: 42px;
+}
+
+#our-tariffs a {
+    width: 170px;
+}
+
+#our-tariffs img {
+    position: absolute;
+    margin-top: -85px;
+}
+
+#our-tariffs .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 115px;
+}
+
+#our-tariffs .card-bg {
+    background: #f5f4f2;
+}
+
+#our-tariffs .card-body {
+    height: 414px;
+}
+
+#our-tariffs img.img-soro {
+    padding-top: 97px;
+    padding-left: 16px;
+}
+
+#wish {
+    background: url(../img/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 660px;
+}
+
+#load {
+    height: 605px;
+}
+
+#castomar .happy-clients-body {
+    background: url(../img/cliends-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+}
+
+#castomar .happy-clients-body .bg img {
+    position: absolute;
+    /* position: relative; */
+}
+
+#castomar .happy-clients-body p.text-light {
+    position: relative;
+    font-size: 17px;
+}
+
+#castomar .happy-clients-body .man-img {
+    position: relative;
+}
+
+#castomar .happy-clients-body .man-img img {
+    position: absolute;
+}
+
+#castomar .happy-clients-body .man-img h5,
+#castomar .happy-clients-body .man-img h6 {
+    position: relative;
+}
+
+#castomar .happy-clients-body .man-img .man-text {
+    margin-left: 116px;
+}
+
+#mobil {
+    height: 285px;
+}
+
+#mobil .text-number h1 {
+    font-size: 91px;
+}
+
+#mobil .text-number h2 {
+    font-size: 41px;
+}
+
+#details {
+    background-color: #0c0804;
+    height: 440px;
+}
+
+#details.width-text {
+    width: 340px;
+}
+
+#details .about-taxt {
+    margin-top: 85px;
+    border-bottom: 8px solid #ffc61a;
+    margin-bottom: 45px;
+}
+
+#details .width-text .list-item span {
+    font-size: 18px;
+}
+
+#details .width-text-apps .list-item span {
+    font-size: 18px;
+}
+
+#details .width-text-lokason .list-item span {
+    font-size: 18px;
+}
+
+#details .width-text-apps .list-item i.fa.fa-android {
+    padding: 0px;
+    font-size: 25px;
+    margin-left: 12px;
+}
+
+#details .width-text-apps .list-item i.fa.fa-apple {
+    padding: 22px;
+    font-size: 25px;
+    margin-left: 28px;
+}
+
+#details .width-text .detils i {
+    position: absolute;
+    font-size: 20px;
+}
+
+#details .width-text-apps .detils i {
+    position: absolute;
+    font-size: 20px;
+}
+
+#details .width-text-lokason .detils i {
+    position: absolute;
+    font-size: 20px;
+}
+
+#details .width-text .detils p {
+    position: relative;
+    margin-left: 33px;
+}
+
+#details .width-text-apps .detils p {
+    position: relative;
+    margin-left: 33px;
+}
+
+#details .width-text-lokason .detils p {
+    position: relative;
+    margin-left: 33px;
+}
+
+#copyright {
+    background-color: #010101;
+}
+
+img {
+    position: absolute;
+    /* margin-right: -19px; */
+}
+
+.text {
+    position: relative;
+    /* margin-right: 133px; */
+    margin-left: 115px;
+}
+
+@media (max-width: 1199px) {
+    #our-tariffs .card-body {
+        height: 454px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 97px;
+        padding-left: 0px;
+        margin-left: -14px;
+    }
+    #load {
+        height: 578px;
+    }
+}
+
+@media (max-width: 1024px) {
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-right: 40px;
+    }
+    #textandtable .col-12.col-md-7.align-self-center.contact-left.mr-auto.mt-4 {
+        margin-left: -33px;
+    }
+    #textandtable .col-12.col-md-5.mt-5 {
+        margin-right: 33px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-left: 0px;
+    }
+    #load {
+        height: 578px;
+    }
+    #castomar img.mr-5.p-2 {
+        margin-left: -11px;
+    }
+    #our-tariffs .card-body {
+        height: 454px;
+    }
+    #our-tariffs img.img-soro {
+        margin-left: -14px;
+    }
+}
+
+@media (max-width: 998px) {
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-right: 8px;
+    }
+    #textandtable form.input-tag.text-danger.ml-auto.text-center {
+        padding-top: 0px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        margin-left: -8px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 0px;
+    }
+    #our-tariffs img.img-soro {
+        margin-left: -14px;
+        padding-top: 97px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 250px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 250px;
+        width: 460px;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-dark .navbar-brand img {
+        width: 120px;
+        margin-top: 12px;
+    }
+    #our-tariffs img.img-soro {
+        margin-left: -20px;
+        padding-top: 133px;
+        width: 40px;
+    }
+    #our-tariffs .card-body {
+        height: 505px;
+    }
+    #load {
+        height: 468px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 297px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 297px;
+        width: 460px;
+    }
+    #mobil .text-number h1 {
+        font-size: 90px;
+    }
+    #details h2.font-weight-bold.text-uppercase.text-light.mb-5 {
+        font-size: 26px;
+    }
+    #details p.text-light.p-0 {
+        font-size: 13px;
+    }
+    #details .width-text .list-item span {
+        font-size: 12px;
+    }
+    #details .width-text-apps .list-item span {
+        font-size: 12px;
+    }
+    #details .width-text-lokason .list-item span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 959px) {
+    #our-tariffs .card-body {
+        height: 485px;
+    }
+    .navbar-dark .navbar-brand img {
+        width: 103px;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-nav .nav-link {
+        padding-left: 20px;
+        padding: 15px;
+        margin-top: 5px;
+    }
+    #header a.navbar-brand.mb-5 img {
+        width: 109px;
+        margin-top: 11px;
+    }
+    #header a.navbar-brand.mb-5 img {
+        width: 97px;
+    }
+    #header nav#navbar-header {
+        font-size: 15px;
+        width: -24px;
+    }
+    #header img.car-img {
+        padding: 60px;
+    }
+    #header .col-12.col-md-6.col-lg-5.mt-5 {
+        margin-right: 0px;
+        padding-right: -13px;
+        padding-left: 0px;
+    }
+    #textandtable h2.font-weight-bold.text-uppercase.p-0.m-0.mt-5 {
+        font-size: 25px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 28px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+    }
+    #textandtable .input-tag.mt-5 {
+        margin-left: -35px;
+    }
+    #our-tariffs {
+        width: 768px;
+        height: 690px;
+    }
+    #our-tariffs .card-bg {
+        background: #f5f4f2;
+        height: 485px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+    }
+    #our-tariffs img.img-soro {
+        width: 0;
+    }
+    #load {
+        height: 454px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 302px;
+        width: 337px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 302px;
+        width: 337px;
+    }
+    #mobil .text-number h1 {
+        font-size: 90px;
+    }
+    #details h2.font-weight-bold.text-uppercase.text-light.mb-5 {
+        font-size: 26px;
+    }
+    #details p.text-light.p-0 {
+        font-size: 12px;
+    }
+    #details .width-text .list-item span {
+        font-size: 12px;
+    }
+    #details .width-text-apps .list-item span {
+        font-size: 12px;
+    }
+    #details .width-text-lokason .list-item span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    #header .car-img {
+        margin-top: -24px;
+        margin-left: -260px;
+    }
+    #header {
+        height: 440px;
+        width: 767px;
+    }
+    #header img.car-img {
+        padding: 120px;
+    }
+    #header .car-img {
+        margin-top: -112px;
+        margin-left: -384px;
+    }
+    #textandtable {
+        width: 360px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 12px;
+    }
+    #textandtable {
+        height: 1100px;
+        width: 767px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 70px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 38px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .input-tag.mt-5 {
+        margin-left: -9px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        height: 1920px;
+        width: 767px;
+    }
+    #our-tariffs .card-body {
+        height: 507px;
+        width: 510px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 238px;
+        margin-left: 105px;
+        width: 65px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: 75px;
+    }
+    #wish {
+        font-size: 17px;
+    }
+    #wish {
+        height: 885px;
+        width: 767px;
+    }
+    #wish .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 15px;
+        margin-left: -15px;
+    }
+    #load {
+        height: 1015px;
+        width: 767px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 767px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 11px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 375px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 355px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 145px;
+        width: 767px;
+    }
+    #mobil .text-number {
+        margin-left: -17px;
+    }
+    #mobil .text-number h2 {
+        font-size: 13px;
+    }
+    #mobil .text-number h1 {
+        font-size: 25px;
+    }
+    #details {
+        height: 1015px;
+        width: 767px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+        width: 490px;
+        height: 225px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+        margin-top: -79px;
+    }
+    footer#copyright {
+        width: 767px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 540px) {
+    #header .car-img {
+        margin-top: -24px;
+        margin-left: -260px;
+    }
+    #header {
+        height: 440px;
+        width: 540px;
+    }
+    #textandtable {
+        width: 360px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 12px;
+    }
+    #textandtable {
+        height: 1100px;
+        width: 540px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 70px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 38px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .input-tag.mt-5 {
+        margin-left: -9px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        height: 1920px;
+        width: 540px;
+    }
+    #our-tariffs .card-body {
+        height: 507px;
+        width: 510px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 238px;
+        margin-left: 105px;
+        width: 65px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: 75px;
+    }
+    #wish {
+        font-size: 17px;
+    }
+    #wish {
+        height: 885px;
+        width: 540px;
+    }
+    #wish .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 15px;
+        margin-left: -15px;
+    }
+    #load {
+        height: 1015px;
+        width: 540px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 540px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 11px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 375px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 355px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 145px;
+        width: 540px;
+    }
+    #mobil .text-number {
+        margin-left: -17px;
+    }
+    #mobil .text-number h2 {
+        font-size: 13px;
+    }
+    #mobil .text-number h1 {
+        font-size: 25px;
+    }
+    #details {
+        height: 1015px;
+        width: 540px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+        width: 490px;
+        height: 225px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+        margin-top: -79px;
+    }
+    footer#copyright {
+        width: 540px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 414px) {
+    #header img.car-img {
+        padding: 35px;
+    }
+    #header .car-img {
+        margin-top: -24px;
+        margin-left: -212px;
+    }
+    #header {
+        height: 365px;
+        width: 414px;
+    }
+    #textandtable {
+        width: 360px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 12px;
+    }
+    #textandtable {
+        height: 1215px;
+        width: 414px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 3px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .input-tag.mt-5 {
+        margin-left: -9px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        height: 1920px;
+        width: 414px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 383px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: 15px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 232px;
+        margin-left: 41px;
+        width: 65px;
+    }
+    #wish {
+        font-size: 15px;
+    }
+    #wish {
+        height: 950px;
+        width: 414px;
+    }
+    #wish .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 15px;
+        margin-left: -15px;
+    }
+    #load {
+        height: 1000px;
+        width: 414px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 414px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 11px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 375px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 355px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 145px;
+        width: 414px;
+    }
+    #mobil .text-number {
+        margin-left: -17px;
+    }
+    #mobil .text-number h2 {
+        font-size: 13px;
+    }
+    #mobil .text-number h1 {
+        font-size: 25px;
+    }
+    #details {
+        height: 1015px;
+        width: 414px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 357px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+        margin-top: -79px;
+    }
+    footer#copyright {
+        width: 414px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 411px) {
+    #header img.car-img {
+        padding: 34px;
+    }
+    #header .car-img {
+        margin-top: -32px;
+        margin-left: -183px;
+    }
+    #header {
+        height: 365px;
+        width: 411px;
+    }
+    #textandtable {
+        width: 360px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 12px;
+    }
+    #textandtable {
+        height: 1215px;
+        width: 411px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .input-tag.mt-5 {
+        margin-left: -78px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        height: 1920px;
+        width: 411px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 383px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 373px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: 15px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 209px;
+        margin-left: 36px;
+        width: 65px;
+    }
+    #wish {
+        font-size: 15px;
+    }
+    #wish {
+        height: 925px;
+        width: 411px;
+    }
+    #wish .row {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 15px;
+        margin-left: -15px;
+    }
+    #load {
+        height: 1000px;
+        width: 411px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 411px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 11px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 375px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 355px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 145px;
+        width: 411px;
+    }
+    #mobil .text-number {
+        margin-left: -17px;
+    }
+    #mobil .text-number h2 {
+        font-size: 13px;
+    }
+    #mobil .text-number h1 {
+        font-size: 25px;
+    }
+    #details {
+        height: 1015px;
+        width: 411px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 357px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+        margin-top: -79px;
+    }
+    footer#copyright {
+        width: 411px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 375px) {
+    #header {
+        height: 365px;
+        width: 375px;
+    }
+    #textandtable {
+        width: 375px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 12px;
+    }
+    #header .car-img {
+        margin-top: -24px;
+        margin-left: -179px;
+    }
+    #textandtable {
+        height: 1215px;
+        width: 375px;
+    }
+    #textandtable .input-tag.mt-5 {
+        width: 393px;
+        margin-left: -30px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 12px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        width: 375px;
+        height: 1930px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 361px;
+    }
+    #our-tariffs img {
+        margin-left: 4px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 199px;
+        margin-left: 19px;
+        width: 75px;
+    }
+    #wish {
+        height: 970px;
+        width: 375px;
+    }
+    #wish {
+        font-size: 15px;
+    }
+    #load {
+        height: 1017px;
+        width: 375px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 375px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 12px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 330px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 310px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 188px;
+        width: 375px;
+    }
+    #mobil .text-number h2 {
+        font-size: 20px;
+    }
+    #mobil .text-number h1 {
+        font-size: 37px;
+    }
+    #details {
+        height: 1060px;
+        width: 375px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 310px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+    }
+    footer#copyright {
+        width: 376px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 360px) {
+    #header {
+        height: 365px;
+        width: 360px;
+    }
+    #textandtable {
+        width: 360px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 36px;
+    }
+    #header p {
+        letter-spacing: 10px;
+        font-size: 10px;
+    }
+    #header .car-img {
+        margin-top: -24px;
+        margin-left: -181px;
+    }
+    #header img.car-img {
+        padding: 25px;
+    }
+    #textandtable {
+        height: 1215px;
+        width: 360px;
+    }
+    #textandtable .input-tag.mt-5 {
+        width: 393px;
+        margin-left: -100px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 71px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        width: 360px;
+        height: 1930px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 331px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: -15px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 198px;
+        margin-left: 5px;
+        width: 75px;
+    }
+    #wish {
+        height: 955px;
+        width: 360px;
+    }
+    #wish {
+        font-size: 12px;
+    }
+    #load {
+        height: 1001px;
+        width: 360px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 360px;
+    }
+    #castomar h2.font-weight-bold.text-uppercase.text-warning.p-0.mt-5.m-0 {
+        font-size: 27px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        /* width: 15px; */
+        font-size: 35px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 12px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 330px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 310px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 188px;
+        width: 360px;
+    }
+    #mobil .text-number h2 {
+        font-size: 20px;
+    }
+    #mobil .text-number h1 {
+        font-size: 37px;
+    }
+    #details {
+        height: 1045px;
+        width: 360px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 310px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+    }
+    footer#copyright {
+        width: 360px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 320px) {
+    #header {
+        height: 365px;
+        width: 320px;
+    }
+    #header p {
+        letter-spacing: 8px;
+        font-size: 12px;
+    }
+    #textandtable {
+        height: 1260px;
+        width: 320px;
+    }
+    #textandtable {
+        width: 320px;
+    }
+    #header h2 {
+        font-size: 28px;
+    }
+    #header h1 {
+        font-size: 31px;
+    }
+    #header .car-img {
+        margin-top: -10px;
+        margin-left: -139px;
+        padding: 60px;
+    }
+    #header img.car-img {
+        padding: 19px;
+    }
+    #header p {
+        letter-spacing: 8px;
+        font-size: 8px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 18px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    #textandtable .input-tag.mt-5 {
+        width: 361px;
+        margin-left: -40px;
+    }
+    #textandtable form.input-tag.text-danger.ml-auto.text-center {
+        width: 428px;
+        padding-top: 0px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: -2px;
+    }
+    #textandtable .input-tag input {
+        width: 160px;
+        height: 65px;
+        display: inline-block;
+        padding: 20px;
+        border: 0px;
+        border-bottom: 3px solid #e4e4e4;
+    }
+    #textandtable form a {
+        cursor: pointer;
+        width: 301px;
+        margin: 50px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -85px;
+        margin-left: -27px;
+    }
+    #our-tariffs {
+        width: 320px;
+        height: 1930px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 257px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 150px;
+        margin-left: -22px;
+        width: 65px;
+    }
+    #wish {
+        font-size: 17px;
+    }
+    #wish .text-light {
+        color: #f8f9fa !important;
+        font-size: 12px;
+    }
+    #wish {
+        height: 890px;
+        width: 320px;
+    }
+    #load {
+        height: 999px;
+        width: 320px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 320px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        font-size: 31px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 12px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 330px;
+        margin-bottom: 4px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 310px;
+    }
+    #castomar .man-img {
+        margin-bottom: 47px;
+    }
+    #mobil {
+        height: 180px;
+        width: 320px;
+    }
+    #mobil .text-number h2 {
+        font-size: 18px;
+    }
+    #mobil .text-number h1 {
+        font-size: 35px;
+    }
+    #details {
+        height: 1152px;
+        width: 320px;
+    }
+    #details .width-text {
+        padding-left: 0px;
+        /* width: 304px; */
+        padding-right: 42px;
+    }
+    #details {
+        height: 1045px;
+        width: 320px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 310px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+    }
+    footer#copyright {
+        width: 320px;
+        height: 65px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 280px) {
+    #header a.navbar-brand.mb-5 img {
+        width: 75px;
+    }
+    #header {
+        height: 365px;
+        width: 280px;
+    }
+    #header p {
+        letter-spacing: 8px;
+        font-size: 12px;
+    }
+    #textandtable {
+        width: 280px;
+        height: 1550px;
+    }
+    #header h2 {
+        font-size: 20px;
+    }
+    #header h1 {
+        font-size: 26px;
+    }
+    #header img.car-img {
+        padding: 5px;
+    }
+    #header .car-img {
+        margin-top: 21px;
+        margin-left: -119px;
+    }
+    #textandtable {
+        width: 280px;
+        height: 1580px;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+        text-align: left;
+    }
+    #textandtable form a {
+        cursor: pointer;
+        width: 254px;
+        margin: 15px;
+    }
+    #textandtable .input-tag input {
+        width: 278px;
+        height: 57px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        padding-left: 25px;
+        text-align: center;
+    }
+    #textandtable p.font-weight-bold.p-0.mt-4 {
+        font-size: 17px;
+        margin-left: 39px;
+    }
+    #textandtable .col-12.col-md-6.col-lg-5.mt-5 {
+        padding-top: 0px;
+        margin-left: 41px;
+    }
+    #textandtable h1.font-weight-bold.text-uppercase.p-0.m-0 {
+        font-size: 21px;
+    }
+    #textandtable .input-tag.mt-5 {
+        width: 333px;
+        margin-left: -95px;
+    }
+    #textandtable form.input-tag.text-danger.ml-auto.text-center {
+        width: 280px;
+        padding-top: 0px;
+    }
+    #textandtable .input-tag input {
+        width: 160px;
+        height: 65px;
+        display: inline-block;
+        padding: 20px;
+        border: 0px;
+        border-bottom: 3px solid #e4e4e4;
+    }
+    #textandtable form a {
+        cursor: pointer;
+        width: 301px;
+        margin: 50px;
+    }
+    .col-12.col-md-6.col-lg-7.align-self-center.contact-left.mr-auto.mt-4 {
+        text-align: center;
+    }
+    #our-tariffs {
+        width: 280px;
+        height: 1930px;
+    }
+    #our-tariffs .card-body {
+        height: 502px;
+        width: 270px;
+    }
+    #our-tariffs .col-12.col-md-4.col-lg-4 {
+        margin-bottom: 113px;
+    }
+    #our-tariffs img {
+        position: absolute;
+        margin-top: -75px;
+        margin-left: -4px;
+    }
+    #our-tariffs img.img-soro {
+        padding-top: 180px;
+        margin-left: -10px;
+        width: 60px;
+    }
+    #wish {
+        font-size: 14px;
+    }
+    #wish {
+        height: 1250px;
+        width: 280px;
+    }
+    #load {
+        height: 979px;
+        width: 280px;
+    }
+    #load img.img-fluid.ml-md-5 {
+        width: 218px;
+        text-align: center;
+        margin-left: 46px;
+    }
+    #load .play.col-md-6.mt-4 {
+        margin-bottom: 102px;
+        width: 223px;
+        text-align: center;
+        margin-left: -50px;
+    }
+    #load img.img-fluid.ml-md-4 {
+        margin-top: 120px;
+    }
+    #castomar {
+        height: 700px;
+        width: 280px;
+    }
+    #castomar h1.font-weight-bold.text-uppercase.text-light.m-0.p-0.mb-5 {
+        font-size: 31px;
+    }
+    #castomar .happy-clients-body p.text-light {
+        position: relative;
+        font-size: 10px;
+    }
+    #castomar img.mr-5.p-2 {
+        height: 210px;
+        width: 268px;
+        margin-bottom: 9px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 210px;
+        width: 310px;
+    }
+    #castomar .happy-clients-body .man-img img {
+        font-size: 33px;
+        position: absolute;
+        width: 40px;
+    }
+    #castomar img.ml-2.p-2 {
+        height: 190px;
+        width: 250px;
+    }
+    #castomar .man-img {
+        margin-bottom: 49px;
+    }
+    #castomar h4.font-weight-bold.text-uppercase.text-warning.p-0.m-0 {
+        font-size: 14px;
+    }
+    #castomar h5.font-weight-bold.text-uppercase.text-light.m-0.p-0 {
+        font-size: 14px;
+    }
+    #mobil {
+        height: 150px;
+        width: 280px;
+    }
+    #mobil .text-number h2 {
+        font-size: 12px;
+    }
+    #mobil .text-number h1 {
+        font-size: 28px;
+    }
+    #details {
+        height: 1060px;
+        width: 280px;
+    }
+    #details .width-text {
+        padding-left: 0px;
+        /* width: 304px; */
+        padding-right: 42px;
+    }
+    #details {
+        height: 1080px;
+        width: 280px;
+    }
+    #details .width-text {
+        font-size: 14px;
+        height: 225px;
+        width: 310px;
+    }
+    #details a.text-light.icon.p-md-3.mt-md-3 {
+        padding: 25px;
+    }
+    #details .width-text-apps.ml-4 {
+        margin-right: 25px;
+    }
+    #details .width-text {
+        padding-left: 25px;
+    }
+    #details .width-text-lokason.md-ml-5 {
+        margin-left: 26px;
+        margin-right: 23px;
+    }
+    footer#copyright {
+        width: 280px;
+        height: 54px;
+    }
+    footer#copyright p.lead.mb-0 {
+        font-size: 15px;
+    }
+}
